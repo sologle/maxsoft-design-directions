@@ -1,0 +1,234 @@
+[
+  {
+    "package": "react@19.2.8",
+    "license": "MIT"
+  },
+  {
+    "package": "react-dom@19.2.8",
+    "license": "MIT"
+  },
+  {
+    "package": "scheduler@0.27.0",
+    "license": "MIT"
+  },
+  {
+    "package": "lucide-react@1.39.0",
+    "license": "ISC"
+  },
+  {
+    "package": "@tiptap/core@3.31.3",
+    "license": "MIT"
+  },
+  {
+    "package": "@tiptap/extension-code-block-lowlight@3.31.3",
+    "license": "MIT"
+  },
+  {
+    "package": "@tiptap/extension-heading@3.31.3",
+    "license": "MIT"
+  },
+  {
+    "package": "@tiptap/extension-paragraph@3.31.3",
+    "license": "MIT"
+  },
+  {
+    "package": "@tiptap/extension-table@3.31.3",
+    "license": "MIT"
+  },
+  {
+    "package": "@tiptap/extensions@3.31.3",
+    "license": "MIT"
+  },
+  {
+    "package": "@tiptap/pm@3.31.3",
+    "license": "MIT"
+  },
+  {
+    "package": "prosemirror-changeset@2.4.3",
+    "license": "MIT"
+  },
+  {
+    "package": "prosemirror-transform@1.12.1",
+    "license": "MIT"
+  },
+  {
+    "package": "prosemirror-model@1.25.12",
+    "license": "MIT"
+  },
+  {
+    "package": "orderedmap@2.1.1",
+    "license": "MIT"
+  },
+  {
+    "package": "prosemirror-commands@1.7.2",
+    "license": "MIT"
+  },
+  {
+    "package": "prosemirror-state@1.4.4",
+    "license": "MIT"
+  },
+  {
+    "package": "prosemirror-view@1.42.5",
+    "license": "MIT"
+  },
+  {
+    "package": "prosemirror-dropcursor@1.8.3",
+    "license": "MIT"
+  },
+  {
+    "package": "prosemirror-gapcursor@1.4.1",
+    "license": "MIT"
+  },
+  {
+    "package": "prosemirror-keymap@1.2.3",
+    "license": "MIT"
+  },
+  {
+    "package": "w3c-keyname@2.2.8",
+    "license": "MIT"
+  },
+  {
+    "package": "prosemirror-history@1.5.0",
+    "license": "MIT"
+  },
+  {
+    "package": "rope-sequence@1.3.4",
+    "license": "MIT"
+  },
+  {
+    "package": "prosemirror-inputrules@1.5.1",
+    "license": "MIT"
+  },
+  {
+    "package": "prosemirror-schema-list@1.5.1",
+    "license": "MIT"
+  },
+  {
+    "package": "prosemirror-tables@1.8.5",
+    "license": "MIT"
+  },
+  {
+    "package": "@tiptap/react@3.31.3",
+    "license": "MIT"
+  },
+  {
+    "package": "@types/use-sync-external-store@0.0.6",
+    "license": "MIT"
+  },
+  {
+    "package": "fast-equals@5.4.3",
+    "license": "MIT"
+  },
+  {
+    "package": "use-sync-external-store@1.7.0",
+    "license": "MIT"
+  },
+  {
+    "package": "@tiptap/starter-kit@3.31.3",
+    "license": "MIT"
+  },
+  {
+    "package": "@tiptap/extension-blockquote@3.31.3",
+    "license": "MIT"
+  },
+  {
+    "package": "@tiptap/extension-bold@3.31.3",
+    "license": "MIT"
+  },
+  {
+    "package": "@tiptap/extension-code@3.31.3",
+    "license": "MIT"
+  },
+  {
+    "package": "@tiptap/extension-code-block@3.31.3",
+    "license": "MIT"
+  },
+  {
+    "package": "@tiptap/extension-bullet-list@3.31.3",
+    "license": "MIT"
+  },
+  {
+    "package": "@tiptap/extension-document@3.31.3",
+    "license": "MIT"
+  },
+  {
+    "package": "@tiptap/extension-dropcursor@3.31.3",
+    "license": "MIT"
+  },
+  {
+    "package": "@tiptap/extension-gapcursor@3.31.3",
+    "license": "MIT"
+  },
+  {
+    "package": "@tiptap/extension-hard-break@3.31.3",
+    "license": "MIT"
+  },
+  {
+    "package": "@tiptap/extension-horizontal-rule@3.31.3",
+    "license": "MIT"
+  },
+  {
+    "package": "@tiptap/extension-link@3.31.3",
+    "license": "MIT"
+  },
+  {
+    "package": "linkifyjs@4.3.3",
+    "license": "MIT"
+  },
+  {
+    "package": "@tiptap/extension-italic@3.31.3",
+    "license": "MIT"
+  },
+  {
+    "package": "@tiptap/extension-list@3.31.3",
+    "license": "MIT"
+  },
+  {
+    "package": "@tiptap/extension-list-item@3.31.3",
+    "license": "MIT"
+  },
+  {
+    "package": "@tiptap/extension-ordered-list@3.31.3",
+    "license": "MIT"
+  },
+  {
+    "package": "@tiptap/extension-strike@3.31.3",
+    "license": "MIT"
+  },
+  {
+    "package": "@tiptap/extension-list-keymap@3.31.3",
+    "license": "MIT"
+  },
+  {
+    "package": "@tiptap/extension-underline@3.31.3",
+    "license": "MIT"
+  },
+  {
+    "package": "@tiptap/extension-text@3.31.3",
+    "license": "MIT"
+  },
+  {
+    "package": "highlight.js@11.11.2",
+    "license": "BSD-3-Clause"
+  },
+  {
+    "package": "lowlight@3.3.0",
+    "license": "MIT"
+  },
+  {
+    "package": "@types/hast@3.0.5",
+    "license": "MIT"
+  },
+  {
+    "package": "@types/unist@3.0.3",
+    "license": "MIT"
+  },
+  {
+    "package": "devlop@1.1.0",
+    "license": "MIT"
+  },
+  {
+    "package": "dequal@2.0.3",
+    "license": "MIT"
+  }
+]
